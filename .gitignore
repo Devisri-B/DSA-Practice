@@ -1,0 +1,35 @@
+# Python environment
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# C++ build artifacts
+obj/
+bin/
+*.out
+*.o
+*.a
+*.so
+*.exe
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~

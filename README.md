@@ -52,7 +52,7 @@ dsa-practice/
 2. **Use Template**: Start with the template from `utils/template.py` as a foundation
 3. **Implement Solution**: Write solution with clear comments and docstrings
 4. **Add Test Cases**: Include test cases within the file
-5. **Update Progress**: Update this README with your progress
+5. **Update Progress**: Update this README with my progress
 
 ---
 
