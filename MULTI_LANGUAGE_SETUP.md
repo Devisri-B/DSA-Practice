@@ -65,7 +65,8 @@ conda activate dsa
 code .
 ```
 
-# Remove environment (if needed)
+#### Remove environment (if needed)
+```
 conda remove -n dsa --all
 ```
 
@@ -108,8 +109,6 @@ This workspace includes build tools to make C++ development easier and faster.
 - Simplifies C++ compilation with easy-to-remember commands
 - Automatically handles compiler flags and output directories
 - Prevents typing long g++ commands repeatedly
-
-**Location:** `Makefile`
 
 **How to use:**
 
@@ -193,8 +192,6 @@ Clean Build Artifacts       - Removes compiled files
 ```
 
 ---
-
-## Recommended Workflow (Option 3)
 
 ### File Structure:
 
